@@ -1,8 +1,9 @@
 # Hello, World!
 
 ### Sobre mim:
-- Me chamo Bruno e tenho 22 anos.
-- Faço Análise e Desenvolvimento de Sistemas no IFSul
+- Me chamo Bruno e tenho 22 anos;
+- Faço Análise e Desenvolvimento de Sistemas no IFSul;
+- Sou desenvolvedor Java em constante busca por conhecimento.
 
 ### Contato:
 
