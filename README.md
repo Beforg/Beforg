@@ -1,13 +1,13 @@
 # [Hello, World!](https://beforg.github.io/portfolio/)
 
 ### Sobre mim:
-- Me chamo Bruno e tenho 22 anos;
-- Faço Análise e Desenvolvimento de Sistemas no IFSul;
-- Sou desenvolvedor Java em constante busca por conhecimento.
+
+Olá, meu nome é Bruno, sou um desenvolvedor Back-End, tenho 22 anos, cursei 2 semestres de **Análise e Desenvolvimento de Sistemas** antes de ingressar em **Ciência da Computação** <br>
+Atualmente estou focado em **Java**, mas estudo outras linguagens como **C# e JavaScript**, também gosto de estudar sobre **HTML, CSS, Gestão e Produtividade**. 
 
 ### Contato:
 
-- [LinkedIn](https://www.linkedin.com/in/bruno-benitez-forgiarini-986b20262/)
+- [LinkedIn](https://www.linkedin.com/in/beforg/)
 - [Instagram](https://www.instagram.com/brunoforgiarini_/)
 - [Portfólio](https://beforg.github.io/portfolio/)
   
