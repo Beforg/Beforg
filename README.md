@@ -3,8 +3,7 @@
 ### Sobre mim:
 
 Olá, meu nome é Bruno, sou um desenvolvedor Back-End, tenho 22 anos, cursei 2 semestres de **Análise e Desenvolvimento de Sistemas** antes de ingressar em **Ciência da Computação** <br>
-Atualmente estou focado em **Java**, mas estudo outras linguagens como **C# e JavaScript**, também gosto de estudar sobre **HTML, CSS, Gestão e Produtividade**. 
-
+Atualmente estou focado em **Java**, mas estudo outras linguagens como **C# e JavaScript**.
 ### Contato:
 
 - [LinkedIn](https://www.linkedin.com/in/beforg/)
