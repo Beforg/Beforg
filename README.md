@@ -2,9 +2,6 @@
 
 ---
 
-#### Desenvolvedor Fullstack e estudante do 4º semestre do curso de Engenharia de Computação da Universidade Federal do Pampa (Unipampa) - Campus Bagé, com experiência prática no desenvolvimento de aplicações web utilizando Java, Spring Boot e Angular. 
-
-
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -13,6 +10,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+#### Desenvolvedor Fullstack e estudante do 4º semestre do curso de Engenharia de Computação da Universidade Federal do Pampa (Unipampa) - Campus Bagé, com experiência prática no desenvolvimento de aplicações web utilizando Java, Spring Boot e Angular. 
+
+
+
 
 ---
 
@@ -26,8 +29,6 @@
 
 ---
 
-### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beforg/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.capsqn@gmail.com)
 
 </div>
