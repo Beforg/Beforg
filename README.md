@@ -12,14 +12,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-#### Desenvolvedor Fullstack e estudante do 4º semestre do curso de Engenharia de Computação da Universidade Federal do Pampa (Unipampa) - Campus Bagé, com experiência prática no desenvolvimento de aplicações web utilizando Java, Spring Boot e Angular. 
+#### Desenvolvedor Fullstack com experiência prática no desenvolvimento de aplicações web utilizando Java, Spring Boot e Angular. 
 
 
 
 
 ---
-
-### Certificações
 
 <a href="https://www.credly.com/badges/a83a7f2a-3e63-4c71-9210-d15b8f93b090" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner">
